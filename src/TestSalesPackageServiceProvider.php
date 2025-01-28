@@ -8,7 +8,7 @@ class TestSalesPackageServiceProvider extends ServiceProvider
 {
     public function register()
     {
-        // Register any bindings or package configurations here
+        // Register any bindings or package configurations hereeee
     }
 
     public function boot()
